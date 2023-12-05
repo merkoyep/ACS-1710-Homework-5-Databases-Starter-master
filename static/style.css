@@ -17,6 +17,9 @@ main {
     margin-top: 20px;
     min-height: 100vh;
 }
+main img {
+    width: 100%;
+}
 
 section {
     width: 100%;
